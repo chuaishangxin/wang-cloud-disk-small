@@ -1,0 +1,5 @@
+/* pages/cpn/cpn.wxss */
+.text {
+  padding: 20rpx 16rpx;
+  border-bottom: 6rpx solid red;
+}

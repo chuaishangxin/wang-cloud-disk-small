@@ -1,0 +1,7 @@
+<tab-cpn 
+  titles="{{['流行', '新款', '精选']}}" 
+  bind:itemClick="handlerTabClick"/>
+
+<my-slot>
+  <button size="mini">我是按钮</button>
+</my-slot>  

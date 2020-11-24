@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "tab-cpn":"/components/tab-cpn/tab-cpn",
+    "my-slot":"/components/my-slot/my-slot"
+  }
+}
